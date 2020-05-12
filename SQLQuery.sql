@@ -1,3 +1,5 @@
+
+
 create database mindbox
 
 go
@@ -46,3 +48,5 @@ select * from #temp union select product, category from stor
 -- | телефон | NULL     |
 -- | туфли   | одежда   |           
 -- | шкатулка| NULL     | 
+
+
